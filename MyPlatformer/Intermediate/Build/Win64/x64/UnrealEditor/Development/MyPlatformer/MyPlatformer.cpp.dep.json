@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ar08\\documents\\github\\ue5-platformer\\myplatformer\\source\\myplatformer\\myplatformer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ar08\\documents\\github\\ue5-platformer\\myplatformer\\intermediate\\build\\win64\\x64\\myplatformereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ar08\\documents\\github\\ue5-platformer\\myplatformer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myplatformer\\definitions.myplatformer.h",
+            "c:\\users\\ar08\\documents\\github\\ue5-platformer\\myplatformer\\source\\myplatformer\\myplatformer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

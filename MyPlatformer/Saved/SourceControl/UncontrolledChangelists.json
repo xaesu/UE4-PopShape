@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/Maps/Level1.umap",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/ThirdPerson/Blueprints/PlatformGame/BP_Platform.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/Maps/_GENERATED/ar08/SM_Platform.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/Maps/_GENERATED/ar08/SM_Platform1.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/ar08/Documents/GitHub/UE5-Platformer/MyPlatformer/Content/Maps/_GENERATED/ar08/Rectangle_55852AD6.uasset"
+			]
+		}
+	]
+}
