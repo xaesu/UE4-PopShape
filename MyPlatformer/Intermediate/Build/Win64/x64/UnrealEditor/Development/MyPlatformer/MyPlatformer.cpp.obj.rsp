@@ -1,11 +1,11 @@
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Source\MyPlatformer\MyPlatformer.cpp"
-/FI"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\Definitions.MyPlatformer.h"
-/Yu"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.obj"
-/sourceDependencies "C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.dep.json"
-@"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.Shared.rsp"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Source\MyPlatformer\MyPlatformer.cpp"
+/FI"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\Definitions.MyPlatformer.h"
+/Yu"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.obj"
+/sourceDependencies "C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.dep.json"
+@"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

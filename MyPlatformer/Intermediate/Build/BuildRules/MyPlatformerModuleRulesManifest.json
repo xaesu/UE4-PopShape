@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\ar08\\Documents\\GitHub\\UE5-Platformer\\MyPlatformer\\Source\\MyPlatformer\\MyPlatformer.Build.cs",
-		"C:\\Users\\ar08\\Documents\\GitHub\\UE5-Platformer\\MyPlatformer\\Source\\MyPlatformer.Target.cs",
-		"C:\\Users\\ar08\\Documents\\GitHub\\UE5-Platformer\\MyPlatformer\\Source\\MyPlatformerEditor.Target.cs"
+		"C:\\GitHub\\UE5-Platformer\\MyPlatformer\\Source\\MyPlatformer\\MyPlatformer.Build.cs",
+		"C:\\GitHub\\UE5-Platformer\\MyPlatformer\\Source\\MyPlatformer.Target.cs",
+		"C:\\GitHub\\UE5-Platformer\\MyPlatformer\\Source\\MyPlatformerEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.1"
 }

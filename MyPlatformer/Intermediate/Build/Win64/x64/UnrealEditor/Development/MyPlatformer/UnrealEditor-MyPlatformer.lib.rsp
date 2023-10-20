@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-MyPlatformer.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.obj"
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\Default.rc2.res"
-/OUT:"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\UnrealEditor-MyPlatformer.lib"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.obj"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\Default.rc2.res"
+/OUT:"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\UnrealEditor-MyPlatformer.lib"

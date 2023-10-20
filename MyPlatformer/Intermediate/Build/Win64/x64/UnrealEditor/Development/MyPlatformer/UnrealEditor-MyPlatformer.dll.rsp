@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.obj"
-"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\Default.rc2.res"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\MyPlatformerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\MyPlatformer.cpp.obj"
+"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -66,7 +66,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Binaries\Win64\UnrealEditor-MyPlatformer.dll"
-/IMPLIB:"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\UnrealEditor-MyPlatformer.sup.lib"
-/PDB:"C:\Users\ar08\Documents\GitHub\UE5-Platformer\MyPlatformer\Binaries\Win64\UnrealEditor-MyPlatformer.pdb"
+/OUT:"C:\GitHub\UE5-Platformer\MyPlatformer\Binaries\Win64\UnrealEditor-MyPlatformer.dll"
+/IMPLIB:"C:\GitHub\UE5-Platformer\MyPlatformer\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyPlatformer\UnrealEditor-MyPlatformer.sup.lib"
+/PDB:"C:\GitHub\UE5-Platformer\MyPlatformer\Binaries\Win64\UnrealEditor-MyPlatformer.pdb"
 /ignore:4078
